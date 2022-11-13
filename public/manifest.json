@@ -1,0 +1,28 @@
+{
+  "background_color": "#c0c0c0",
+  "categories": ["lifestyle", "music"],
+  "dir": "ltr",
+  "display_override": ["standalone", "fullscreen"],
+  "display": "standalone",
+  "icons": [
+    {
+    "src": "log.png",
+    "display":"image/png",
+    "sizes": "192x1920"
+  },
+  {
+  "src": "log.png",
+  "display":"image/png",
+  "sizes": "512x512"
+}
+],
+"lang": "es-MX",
+"name": "PWA Lasfito test",
+"orientation": "portrait",
+"prefer_related_application": false,
+"scope": "/",
+"short_name": "PWA Lasfi",
+"start_url": "/",
+"theme_color": "orange"
+
+}
